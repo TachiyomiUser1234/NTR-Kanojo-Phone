@@ -1,0 +1,33 @@
+{
+  "title": "NTR KANOJO PHONE Collection",
+  "description": "Collection of NTR KANOJO PHONE",
+  "artist": "Choroco",
+  "author": "Choroco",
+  "cover": "https://i.imgur.com/O2UFOiR.jpg",
+  "chapters": {
+    "1": {
+      "title": "NTR KANOJO 1",
+      "volume": "1",
+      "groups": {
+        "Ehohin": "/proxy/api/imgur/chapter/IIAhF49/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "NTR KANOJO 2",
+      "volume": "1",
+      "groups": {
+        "Ehonin": "/proxy/api/imgur/chapter/C6kIWeu/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "NTR KANOJO 3",
+      "volume": "1",
+      "groups": {
+        "Ehonin": "/proxy/api/imgur/chapter/k1HFRCU/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
